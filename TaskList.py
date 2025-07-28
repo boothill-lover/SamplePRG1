@@ -8,3 +8,5 @@ for i in range(i, days + 1):
     else:
         print(f'{i:>3} |')
         print(f'Day | Task(s)')
+
+print('wtf')
