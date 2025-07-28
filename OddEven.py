@@ -18,4 +18,3 @@ while continuegame==1:
 print(f'Odd Numbers: {sorted(numberlistO)}')
 print(f'Even Numbers: {sorted(numberlistE)}')
 print(f'{total / (len(numberlistE) + len(numberlistO)):.2f}')
-
